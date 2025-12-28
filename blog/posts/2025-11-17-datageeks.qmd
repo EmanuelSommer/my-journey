@@ -1,0 +1,13 @@
+---
+title: "Sampling: The future of Bayesian Deep Learning?"
+description: "Talk@Datageeks Munich Meetup - Youtube video available"
+categories: ["Talk", "Bayesian Deep Learning", "Uncertainty Quantification", "Sampling", "Machine Learning"]
+image: ../../images/projects/dglogo.png
+date: 2025-11-17
+---
+
+Had a great time presenting at the packed Datageeks Munich Meetup hosted by E-ON, thanks for the invitation and the engaging discussions!
+
+**Abstract:** Sampling in Bayesian neural networks has long carried a reputation for being elegant yet impractical for large-scale or complex models. But times have changed. Recent progress in hybrid and scalable samplers, as well as software, is reshaping what’s possible for Bayesian neural networks. This talk highlights how these methods achieve both reliable uncertainty estimates and competitive predictive performance, challenging long-held beliefs about the limits of sampling.
+
+For the recording [click here {{< fa brands youtube >}}](https://youtu.be/avz1p5VXH2o?si=nrI55dVxpwm7KYlz) (not sure why the slides have such a yellow touch and a small chunk of the talk is cut off when I talk about software)
