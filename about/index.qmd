@@ -20,7 +20,7 @@ about:
 
 Hi, I'm Emanuel! 👋
 
-I'm a passionate Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
+I'm a passionate ML Researcher, Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
 
 With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics & ML. Following industry experience as an ML Practitioner, I'm now pursuing a PhD in Statistics, focusing on sampling-based inference for Bayesian Neural Networks to advance uncertainty quantification in modern Deep Learning. My research has been published at top venues like ICML and ICLR.
 
@@ -32,9 +32,9 @@ Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharin
 
 # {{< fa user-astronaut >}} Experience
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
-### PhD Candidate in Statistics & ML
+### PhD Candidate in Statistics & Machine Learning
 **[Munich Uncertainty Quantification AI Lab](https://www.muniq.ai/) | LMU Munich | MCML** [Oct 2023 – Present]{.text-muted .float-end}
 
 * **Research:** (Sampling based Inference for) Bayesian Deep Learning.
@@ -43,7 +43,7 @@ Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharin
 :::
 :::
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Junior Data Scientist
 **Technology Hub | CHECK24** [June 2022 - Aug 2023]{.text-muted .float-end}
@@ -59,7 +59,7 @@ As a Data Scientist in the central Data Science team TechHub, I was at the foref
 :::
 
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Data Scientist Intern
 **Financial Services Core/ Risk Banking | KPMG** [Sep 2019 - Dez 2019]{.text-muted .float-end}
@@ -70,7 +70,7 @@ Planning and implementation of a custom automated data quality testing applicati
 :::
 :::
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Teaching Assistant
 **TUM School of Management** [April 2019 - Aug 2019]{.text-muted .float-end}
@@ -79,7 +79,7 @@ Tutor for the lecture *Statistics for Business Administration*.
 :::
 :::
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Intern (Schnupperlehre)
 **EU/LA Property | Munich RE** [Juli 2013 - Aug 2013]{.text-muted .float-end}
@@ -92,7 +92,7 @@ Got a first taste of the reinsurance business and of the company.
 
 # {{< fa graduation-cap >}} Education 
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### M.Sc. in Mathematics in Data Science
 **Technische Universität München (TUM)** [April 2020 - Mai 2022]{.text-muted .float-end}
@@ -103,7 +103,7 @@ Got a first taste of the reinsurance business and of the company.
 :::
 :::
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### B.Sc. in Mathematics
 **Technische Universität München (TUM)** [Oct 2016 - March 2020]{.text-muted .float-end}
@@ -144,19 +144,19 @@ Got a first taste of the reinsurance business and of the company.
 
 ### Thesis Supervision
 
-To date, I’ve (co)supervised 8+ Bachelor and (mostly) Master students on topics in the realm of (Bayesian) Deep Learning, probabilistic modeling and UQ. I find the process of guiding and supporting a student in their research highly rewarding, and I often learn as much from my mentees as they do from me. I am actively looking for students who are driven by curiosity and enjoy digging into the details.
+To date, I’ve (co)supervised 8+ Bachelor and (mostly) Master students on topics in the realm of (Bayesian) Deep Learning, probabilistic modeling and UQ. I find the process of guiding and supporting a student in their research highly rewarding, and I often learn as much from my mentees as they do from me. Our lab is always looking for students who are driven by curiosity, have strong foundations and enjoy digging into the details.
 :::
 
 
 ---
 # {{< fa code >}} Tech Stack
 
-Below you can find a selection of some of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages Python {{< fa brands python >}} &  {{< fa brands r-project >}}. My command of both of them is advanced.
+Below you can find a **selection of** some of my most **valued tools** from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages Python {{< fa brands python >}} &  {{< fa brands r-project >}}. My command of both of them is advanced.
 
 :::: {.columns}
 
 ::: {.column width="48%"}
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Data Prep & Wrangling
 [{{< fa database >}} SQL]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} pandas]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} numpy]{.badge .bg-primary .rounded-pill}
@@ -165,7 +165,7 @@ Below you can find a selection of some of my most valued tools from my tech stac
 :::
 :::
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Deep Learning & Stats
 [{{< fa brands python >}} JAX]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} pytorch]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} sklearn]{.badge .bg-primary .rounded-pill} 
@@ -181,7 +181,7 @@ Below you can find a selection of some of my most valued tools from my tech stac
 :::
 
 ::: {.column width="48%"}
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Engineering & Scaling
 [{{< fa brands docker >}} Docker (compose)]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} uv]{.badge .bg-primary .rounded-pill} [{{< fa solid terminal >}} bash]{.badge .bg-primary .rounded-pill} 
@@ -192,7 +192,7 @@ Below you can find a selection of some of my most valued tools from my tech stac
 :::
 :::
 
-::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Communication & APIs
 [{{< fa brands python >}} FastAPI]{.badge .bg-primary .rounded-pill} [{{< fa brands r-project >}} shiny]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} streamlit]{.badge .bg-primary .rounded-pill} 

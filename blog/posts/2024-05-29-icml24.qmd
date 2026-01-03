@@ -1,6 +1,6 @@
 ---
 title: "ICML 2024 Acceptance 🚀"
-description: "Our paper on Bayesian Deep Learning accepted at ICML 2024"  
+description: "My first PhD paper on Bayesian Deep Learning accepted at ICML"  
 categories: ["Machine Learning", "Bayesian Deep Learning", "Uncertainty Quantification"]
 image: ../../images/projects/project_bde.png
 date: 2024-05-29
