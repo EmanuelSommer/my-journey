@@ -9,7 +9,7 @@ listing:
   categories: unnumbered
 ---
 
-A kind of mini blog – think Hobby Projects, Hackathons, Resources and possibly even a sprinkle of non Data Science related stories. :)
+A mix of hobby projects, hackathons, and (more or less technical) resources plus a few thoughts along the way. Some might say it's a mini blog.
 
 ::: {#mini-blog}
 :::

@@ -9,30 +9,44 @@
 
 For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=qa2P1tYAAAAJ&hl=en) profile.
 
+::: {.card .mb-4 .border-light .shadow-sm}
+::: {.card-body}
+[ICLR 2025]{.badge .bg-primary .float-end}
 **Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**
 
-- [**Emanuel Sommer**](../about/index.qmd), Jakob Robnik, Giorgi Nozadze, Uros Seljak, David Rügamer
-- [Paper](https://arxiv.org/abs/2502.06335) \@ [ICLR 2025](https://iclr.cc/)
-- Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
+[**Emanuel Sommer**]{.text-primary}, Jakob Robnik, Giorgi Nozadze, Uros Seljak, David Rügamer
 
-**Paths and Ambient Spaces in Neural Loss Landscapes**
+[{{< fa file-pdf >}} Paper](https://arxiv.org/abs/2502.06335) | [{{< fa chalkboard-user >}} Conference](https://iclr.cc/)
 
-- Daniel Dold, Julius Kobialka, Nicolai Palm, [**Emanuel Sommer**](../about/index.qmd), David Rügamer, Oliver Dürr
-- [Paper](https://arxiv.org/abs/2503.03382) \@ [AISTATS 2025](https://aistats.org/aistats2025/)
-- Approximate Bayesian Inference \| Sampling based Inference \| Loss Paths
+[Bayesian Deep Learning]{.badge .bg-light .text-dark} [Sampling-based Inference]{.badge .bg-light .text-dark} [MCMC]{.badge .bg-light .text-dark} [UQ]{.badge .bg-light .text-dark}
+:::
+:::
 
+::: {.card .mb-4 .border-light .shadow-sm}
+::: {.card-body}
+[ICML 2024]{.badge .bg-primary .float-end}
 **Connecting the Dots: Is Mode-Connectedness the Key to Feasible Sample-Based Inference in Bayesian Neural Networks?**
 
-- [**Emanuel Sommer**](../about/index.qmd)\*, Lisa Wimmer\*, Theodore Papamarkou, Ludwig Bothmann, Bernd Bischl, David Rügamer
-- [Paper](https://proceedings.mlr.press/v235/sommer24a.html) \@ [ICML 2024](https://icml.cc/)
-- Bayesian Neural Networks \| Sampling based Inference \| MCMC \| Uncertainty Quantification
+[**Emanuel Sommer**]{.text-primary}\*, Lisa Wimmer\*, Theodore Papamarkou, Ludwig Bothmann, Bernd Bischl, David Rügamer
 
+[{{< fa file-pdf >}} Paper](https://proceedings.mlr.press/v235/sommer24a.html) | [{{< fa chalkboard-user >}} Conference](https://icml.cc/)
+
+[BNNs]{.badge .bg-light .text-dark} [Mode-Connectedness]{.badge .bg-light .text-dark}  [Sampling-based Inference]{.badge .bg-light .text-dark} [Symmetries]{.badge .bg-light .text-dark}
+:::
+:::
+
+::: {.card .mb-4 .border-light .shadow-sm}
+::: {.card-body}
+[Econometrics and Statistics]{.badge .bg-primary .float-end}
 **Vine Copula based Portfolio Level Conditional Risk Measure Forecasting**
 
-- [**Emanuel Sommer**](../about/index.qmd), Karoline Bax, Claudia Czado
-- [Paper](https://doi.org/10.1016/j.ecosta.2023.08.002) accepted in August 2023 \@ [Econometrics and Statistics](https://www.sciencedirect.com/journal/econometrics-and-statistics)
-- Dependence Modeling \| Vine Copulas \| Portfolio Risk Estimation \| Stress Testing \| Time Series 
+[**Emanuel Sommer**]{.text-primary}, Karoline Bax, Claudia Czado
 
+[{{< fa file-pdf >}} Paper](https://doi.org/10.1016/j.ecosta.2023.08.002) | [{{< fa house-laptop >}} Journal](https://www.sciencedirect.com/journal/econometrics-and-statistics)
+
+[Dependence Modeling]{.badge .bg-light .text-dark} [Vine Copulas]{.badge .bg-light .text-dark} [Portfolio Risk]{.badge .bg-light .text-dark} [Stress Testing]{.badge .bg-light .text-dark} [Time Series]{.badge .bg-light .text-dark}
+:::
+:::
 
 <span style="font-size: smaller; color: grey;">* Equal contribution</span>
 
@@ -40,13 +54,34 @@ For a complete list of publications, please refer to my [Google Scholar](https:/
 
 # {{< fa code >}} Software
 
-### {portvine} 
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+:::: {.columns}
+::: {.column width="20%"}
+![](../images/projects/portvine_logo.png){width="90%"}
+:::
+::: {.column width="80%"}
+### {portvine} [{{< fa brands r-project >}} Package]{.badge .bg-secondary .text-dark .ms-2}
+Portfolio-level unconditional as well as conditional risk measure estimation (VaR/Expected Shortfall) using Vine Copulas and ARMA-GARCH models. Designed for backtesting and stress testing.
 
-{{< fa brands r-project >}} Package for the portfolio level unconditional as well as conditional risk measure estimation for backtesting and stress testing using Vine Copula and ARMA-GARCH models.
+[{{< fa box-archive >}} CRAN](https://cloud.r-project.org/package=portvine) | [{{< fa brands github >}} GitHub](https://github.com/EmanuelSommer/portvine) | [{{< fa book >}} Docs](https://emanuelsommer.github.io/portvine/)
+:::
+::::
+:::
+:::
 
-![](../images/projects/portvine_logo.png){fig-align="left" width="15%"}
-[CRAN](https://cloud.r-project.org/package=portvine) \| [GitHub](https://github.com/EmanuelSommer/portvine) \| [Documentation](https://emanuelsommer.github.io/portvine/)
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+:::: {.columns}
+::: {.column width="20%"}
+![](../images/projects/bde_logo.svg){width="90%"}
+:::
+::: {.column width="80%"}
+### {bde} [{{< fa brands python >}} Package]{.badge .bg-secondary .text-dark .ms-2}
+Bayesian Deep Ensembles (specifically **MILE**) implementation compatible with `scikit-learn` and focused on tabular data. Leverages **JAX** for accelerator-backed training and inference.
 
-<!-- :::{#software} -->
-
-<!-- ::: -->
+[{{< fa brands github >}} GitHub](https://github.com/vyron-arvanitis/bde) | [{{< fa book >}} Docs](https://vyron-arvanitis.github.io/bde/)
+:::
+::::
+:::
+:::

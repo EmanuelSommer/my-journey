@@ -8,6 +8,9 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/emanuelsommer
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=qa2P1tYAAAAJ&hl=en
     - icon: github
       text: Github
       href: https://github.com/EmanuelSommer
@@ -23,83 +26,105 @@ With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in 
 
 :::
 
-Beyond Data & Tech, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. Thriving on challenges and fueled by collaboration, I'm all about the journey from the beauty of math to impactful innovation, while having fun along the way! 🚀🌍 
-
-
+Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. I value mathematical elegance, but I’m most energized when that theory leaves the whiteboard and starts driving real innovation. 🚀🌍 
 
 ---
 
 # {{< fa user-astronaut >}} Experience
 
-### PhD Candiate in Statistics & Machine Learning
-Ludwig-Maximilians-Universität München (LMU) | Munich Center for Machine Learning (MCML) | Oct 2023 - Now
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+### PhD Candidate in Statistics & ML
+**[Munich Uncertainty Quantification AI Lab](https://www.muniq.ai/) | LMU Munich | MCML** [Oct 2023 – Present]{.text-muted .float-end}
 
-- [**Munich Uncertainty Quantification AI Lab**](https://www.muniq.ai/) | Department of Statistics
+* **Research:** (Sampling based Inference for) Bayesian Deep Learning.
+* **Reviewing:** NeurIPS (Top Reviewer 2025), ICLR, AISTATS, UAI.
+* **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Deep Learning.
+:::
+:::
 
-- **Research Focus:** (Sampling based Inference for ) Bayesian Neural Networks
-
-- **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Machine Learning.
-
-- **Reviewing Activities:** AISTATS, UAI, NeurIPS (Among the top reviewers 2025), ICLR
-
-
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
 ### Junior Data Scientist
-CHECK24 | Technology Hub | June 2022 - Aug 2023
+**Technology Hub | CHECK24** [June 2022 - Aug 2023]{.text-muted .float-end}
 
 As a Data Scientist in the central Data Science team TechHub, I was at the forefront of driving customer success by delivering innovative ML solutions for various products within the company.
 
 - Responsibility for the Design, Implementation and Maintenance of E2E Learning-to-rank services serving thousands hourly to effortlessly match customers with the products fitting their needs, constantly innovating and as a result improved conversion significantly.
-
 - Collaboration with stakeholders in cross-functional teams across multiple products required me to be highly flexible and a quick learner, with strong business acumen and strong communication skills.
-
 - Equipment of stakeholders with rich dashboards in order to not only monitor but also to foster the explainability and transparency of the ML services.
-
 - Improved the decision making process with cutting-edge statistical methodology in the realm of sequential A/B testing.
 
+:::
+:::
+
+
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
 ### Data Scientist Intern
-KPMG | Financial Services Core/ Risk Banking | Sep 2019 - Dez 2019
+**Financial Services Core/ Risk Banking | KPMG** [Sep 2019 - Dez 2019]{.text-muted .float-end}
 
 Data Scientist role on a long-term project at an investment bank.
 
 Planning and implementation of a custom automated data quality testing application for credit risk data in R, Rmarkdown and SQL. The generation of the reports was automated and the whole data quality testing cycle was reduced from 3 weeks (manually) to 4 hours (including review). The designed tests included univariate and multivariate outlier detection as well as other statistical methods.
+:::
+:::
 
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
 ### Teaching Assistant
-TUM School of Management | April 2019 - Aug 2019
+**TUM School of Management** [April 2019 - Aug 2019]{.text-muted .float-end}
 
 Tutor for the lecture *Statistics for Business Administration*.
+:::
+:::
 
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
 ### Intern (Schnupperlehre)
-Munich RE | EU/LA Property | Juli 2013 - Aug 2013
+**EU/LA Property | Munich RE** [Juli 2013 - Aug 2013]{.text-muted .float-end}
 
 Got a first taste of the reinsurance business and of the company.
+:::
+:::
 
 ---
 
 # {{< fa graduation-cap >}} Education 
 
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
 ### M.Sc. in Mathematics in Data Science
-Technische Universität München (TUM) | April 2020 - Mai 2022
+**Technische Universität München (TUM)** [April 2020 - Mai 2022]{.text-muted .float-end}
 
 - Thesis on [*Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas*](https://mediatum.ub.tum.de/1658240)
 - Focus on Machine Learning & Statistics
 - Passed with Distinction
+:::
+:::
 
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
 ### B.Sc. in Mathematics
-Technische Universität München (TUM) | Oct 2016 - March 2020
+**Technische Universität München (TUM)** [Oct 2016 - March 2020]{.text-muted .float-end}
 
 - Thesis on *Sports Data Analytics: Regression and tree based models*
 - Focus on Statistics, Probability and Finance
 - Minor in Economics
+:::
+:::
 
 ---
 
 # {{< fa person-chalkboard >}} Teaching
 
+::: {.panel-tabset}
 ### Lectures
 
 | Course                                 | Semester         | University | Level   |
 |----------------------------------------|-----------------|------------|---------|
 | Applied Deep Learning                  | Winter 2025/26  | LMU        | Master  |
+| Applied Deep Learning                  | Summer 2025     | LMU        | Master  |
 | Deep Learning                          | Summer 2025     | LMU        | Master  |
 | Advanced Statistical Modeling          | Winter 2024/25  | LMU        | Master  |
 | Applied Deep Learning                  | Summer 2024     | LMU        | Master  |
@@ -117,40 +142,68 @@ Technische Universität München (TUM) | Oct 2016 - March 2020
 | Uncertainty Quantification in Deep Learning | Summer 2024    |
 | Statistical Inference in Data Science       | Winter 2023/24 |
 
+### Thesis Supervision
 
+To date, I’ve (co)supervised 8+ Bachelor and (mostly) Master students on topics in the realm of (Bayesian) Deep Learning, probabilistic modeling and UQ. I find the process of guiding and supporting a student in their research highly rewarding, and I often learn as much from my mentees as they do from me. I am actively looking for students who are driven by curiosity and enjoy digging into the details.
+:::
 
 
 ---
 # {{< fa code >}} Tech Stack
 
-Below you can find a selection of some of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages **{{< fa brands r-project >}} & Python {{< fa brands python >}}**. My command of both of them is advanced.
+Below you can find a selection of some of my most valued tools from my tech stack roughly grouped by topic. Most tools are open source packages from my two main programming languages Python {{< fa brands python >}} &  {{< fa brands r-project >}}. My command of both of them is advanced.
 
-- **Data Management**
-  - SQL
-  - {{< fa brands aws >}} S3 & Athena
-- **Data Exploration & Wrangling** 
-  - {{< fa brands python >}} `pandas`, `numpy`, `dbt`
-  - {{< fa brands r-project >}} `tidyverse`
-- **Machine Learning & Statistical Modeling**
-  - Deep Learning: `jax`, `pytorch`, `tensorflow`, `torch`
-  - Statistical Modeling: `tidymodels`, `sklearn`, `lightgbm`, `numpyro`, `blackjax`
-  - NLP: `tidytext`, `nltk`, `fasttext`
-- **MLOps**
-  - Metaflow
-  - MLflow
-- **Model Deployment**
-  - APIs: `FastAPI`, `plumber`
-  - {{< fa brands aws >}} ECS, Copilot, CloudWatch
-- **Dashboarding & Visualization**
-  - {{< fa brands r-project >}} `shiny`, `golem`
-  - {{< fa brands python >}} `streamlit`
-  - Viz: `ggplot2`, `plotly`, `matplotlib`, `datashader`
-- **Package & Software Development**
-  - Version Control & Collaboration: Git
-  - {{< fa brands r-project >}} package development: `devtools`, `testthat`
-  - Docker (compose)
-  - Utils: `pre-commit`, `uv`
-- **Others**
-  - LaTeX
-  - MS Office
+:::: {.columns}
 
+::: {.column width="48%"}
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+### Data Prep & Wrangling
+[{{< fa database >}} SQL]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} pandas]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} numpy]{.badge .bg-primary .rounded-pill}
+
+[{{< fa brands r-project >}} tidyverse]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} dbt]{.badge .bg-primary .rounded-pill} [{{< fa brands aws >}} Athena, S3]{.badge .bg-primary .rounded-pill}
+:::
+:::
+
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+### Deep Learning & Stats
+[{{< fa brands python >}} JAX]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} pytorch]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} sklearn]{.badge .bg-primary .rounded-pill} 
+
+[{{< fa brands python >}} blackjax]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} lightgbm]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} nltk]{.badge .bg-primary .rounded-pill}
+
+[{{< fa brands r-project >}} tidymodels]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} keras]{.badge .bg-primary .rounded-pill} [{{< fa brands r-project >}} tidytext]{.badge .bg-primary .rounded-pill}
+:::
+:::
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+### Engineering & Scaling
+[{{< fa brands docker >}} Docker (compose)]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} uv]{.badge .bg-primary .rounded-pill} [{{< fa solid terminal >}} bash]{.badge .bg-primary .rounded-pill} 
+
+[Metaflow]{.badge .bg-primary .rounded-pill} [MLflow]{.badge .bg-primary .rounded-pill} [pre-commit]{.badge .bg-primary .rounded-pill} 
+
+[{{< fa brands aws >}} ECS]{.badge .bg-primary .rounded-pill} [{{< fa brands github >}} Git]{.badge .bg-primary .rounded-pill} [{{< fa brands r-project >}} Package Dev]{.badge .bg-primary .rounded-pill}
+:::
+:::
+
+::: {.card .mb-3 .border-light .shadow-sm}
+::: {.card-body}
+### Communication & APIs
+[{{< fa brands python >}} FastAPI]{.badge .bg-primary .rounded-pill} [{{< fa brands r-project >}} shiny]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} streamlit]{.badge .bg-primary .rounded-pill} 
+
+[{{< fa brands r-project >}} ggplot2]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} plotly]{.badge .bg-primary .rounded-pill} [{{< fa brands python >}} datashader]{.badge .bg-primary .rounded-pill}
+
+[quarto]{.badge .bg-primary .rounded-pill} [LaTeX]{.badge .bg-primary .rounded-pill} [{{< fa brands microsoft >}} MS Office]{.badge .bg-primary .rounded-pill}
+
+
+:::
+:::
+:::
+
+::::

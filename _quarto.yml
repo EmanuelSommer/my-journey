@@ -20,6 +20,8 @@ website:
         file: publications/index.qmd
       - text: "Thoughts & Endeavors"
         file: blog/index.qmd
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=qa2P1tYAAAAJ&hl=en
       - icon: github
         href: https://github.com/EmanuelSommer
       - icon: linkedin
