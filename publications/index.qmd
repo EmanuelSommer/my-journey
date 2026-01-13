@@ -78,9 +78,9 @@ Portfolio-level unconditional as well as conditional risk measure estimation (Va
 :::
 ::: {.column width="80%"}
 ### {bde} [{{< fa brands python >}} Package]{.badge .bg-secondary .text-dark .ms-2}
-Bayesian Deep Ensembles (specifically **MILE**) implementation compatible with `scikit-learn` and focused on tabular data. Leverages **JAX** for accelerator-backed training and inference.
+Bayesian Deep Ensembles (specifically **MILE**) implementation fully compatible with `scikit-learn` (part of `scikit-learn-contrib`) and focused on tabular data. Leverages **JAX** for accelerator-backed training and inference.
 
-[{{< fa brands github >}} GitHub](https://github.com/vyron-arvanitis/bde) | [{{< fa book >}} Docs](https://vyron-arvanitis.github.io/bde/)
+[{{< fa brands github >}} GitHub](https://github.com/scikit-learn-contrib/bde) | [{{< fa book >}} Docs](https://contrib.scikit-learn.org/bde/)
 :::
 ::::
 :::
