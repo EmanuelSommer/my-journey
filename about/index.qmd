@@ -38,7 +38,8 @@ Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharin
 **[Munich Uncertainty Quantification AI Lab](https://www.muniq.ai/) | LMU Munich | MCML** [Oct 2023 – Present]{.text-muted .float-end}
 
 * **Research:** (Sampling based Inference for) Bayesian Deep Learning.
-* **Reviewing:** NeurIPS (Top Reviewer 2025), ICLR, AISTATS, UAI.
+* **Supervisor:** David Rügamer.
+* **Reviewing:** NeurIPS (Top Reviewer 2025), ICLR, AISTATS, UAI. Area Chair for ProbML 2026.
 * **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Deep Learning.
 :::
 :::
