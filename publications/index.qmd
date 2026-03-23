@@ -11,6 +11,32 @@ For a complete list of publications, please refer to my [Google Scholar](https:/
 
 ::: {.card .mb-4 .shadow-sm}
 ::: {.card-body}
+[Preprint]{.badge .bg-primary .float-end}
+**Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?**
+
+**Emanuel Sommer**\*, Kangning Diao\*, Jakob Robnik, Uros Seljak, David Rügamer
+
+[{{< fa file-pdf >}} Paper](https://arxiv.org/pdf/2602.06500)
+
+[Bayesian Deep Learning]{.badge .bg-light .text-dark} [Microcanonical Langevin]{.badge .bg-light .text-dark} [Scalability]{.badge .bg-light .text-dark}
+:::
+:::
+
+::: {.card .mb-4 .shadow-sm}
+::: {.card-body}
+[AISTATS 2026 (spotlight)]{.badge .bg-primary .float-end}
+**On the Interplay of Priors and Overparametrization in Bayesian Neural Network Posteriors**
+
+Julius Kobialka\*, **Emanuel Sommer**\*, Chris Kolb, Juntae Kwon, Daniel Dold, David Rügamer
+
+[{{< fa file-pdf >}} Paper](https://openreview.net/forum?id=RmkZbkPRiT) | [{{< fa chalkboard-user >}} Conference](https://virtual.aistats.org/)
+
+[Bayesian Deep Learning]{.badge .bg-light .text-dark} [Sampling-based Inference]{.badge .bg-light .text-dark} [BNN Priors]{.badge .bg-light .text-dark} [Overparameterization]{.badge .bg-light .text-dark}
+:::
+:::
+
+::: {.card .mb-4 .shadow-sm}
+::: {.card-body}
 [ICLR 2025]{.badge .bg-primary .float-end}
 **Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**
 
