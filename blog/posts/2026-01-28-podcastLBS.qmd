@@ -1,0 +1,13 @@
+---
+title: "Fast Bayesian Deep Learning"
+description: "Podcast@Learning Bayesian Statistics"
+categories: ["Podcast", "Bayesian Deep Learning", "Uncertainty Quantification", "Sampling"]
+image: ../../images/projects/lbs_podcast.png
+date: 2026-01-28
+---
+
+I had a great time discussing recent advances in scalable Bayesian neural networks on the Learning Bayesian Statistics podcast together with David Rügamer and Jakob Robnik. Many thanks to Alexandre Andorra for the invitation, the great questions and engaging discussion.
+
+We cover how modern sampling approaches make Bayesian deep learning increasingly practical, enabling competitive predictive performance alongside principled uncertainty quantification. We also discuss remaining computational bottlenecks, trade-offs between posterior fidelity and efficiency, and promising directions for making Bayesian inference more accessible in large-scale deep learning.
+
+Listen to the episode [here {{< fa brands spotify >}}{{< fa brands youtube >}}](https://learnbayesstats.com/episode/fast-bayesian-deep-learning-bayesian-neural-networks-rugamer-sommer-robnik)
