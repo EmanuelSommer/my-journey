@@ -124,6 +124,7 @@ Got a first taste of the reinsurance business and of the company.
 
 | Course                                 | Semester         | University | Level   |
 |----------------------------------------|-----------------|------------|---------|
+| Deep Learning                          | Summer 2026     | LMU        | Master  |
 | Applied Deep Learning                  | Winter 2025/26  | LMU        | Master  |
 | Applied Deep Learning                  | Summer 2025     | LMU        | Master  |
 | Deep Learning                          | Summer 2025     | LMU        | Master  |
@@ -135,8 +136,9 @@ Got a first taste of the reinsurance business and of the company.
 
 ### Master's Seminars @ LMU
 
-| Seminar                                      | Semester        |
-|----------------------------------------------|----------------|
+| Seminar                                     | Semester       |
+|---------------------------------------------|----------------|
+| Amortization, Meta-, and In-Context Learning | Summer 2026    |
 | Theoretical Foundations of Deep Learning    | Winter 2025/26 |
 | Dynamical Systems in Deep Learning          | Summer 2025    |
 | Theoretical Foundations of Deep Learning    | Winter 2024/25 |
