@@ -11,12 +11,12 @@ For a complete list of publications, please refer to my [Google Scholar](https:/
 
 ::: {.card .mb-4 .shadow-sm}
 ::: {.card-body}
-[Preprint]{.badge .bg-primary .float-end}
+[ICML 2026]{.badge .bg-primary .float-end}
 **Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?**
 
 **Emanuel Sommer**\*, Kangning Diao\*, Jakob Robnik, Uros Seljak, David Rügamer
 
-[{{< fa file-pdf >}} Paper](https://arxiv.org/pdf/2602.06500)
+[{{< fa file-pdf >}} Paper](https://arxiv.org/pdf/2602.06500) | [{{< fa chalkboard-user >}} Conference](https://icml.cc/)
 
 [Bayesian Deep Learning]{.badge .bg-light .text-dark} [Microcanonical Langevin]{.badge .bg-light .text-dark} [Scalability]{.badge .bg-light .text-dark}
 :::
@@ -24,7 +24,20 @@ For a complete list of publications, please refer to my [Google Scholar](https:/
 
 ::: {.card .mb-4 .shadow-sm}
 ::: {.card-body}
-[AISTATS 2026 (spotlight)]{.badge .bg-primary .float-end}
+[ICML 2026 (Spotlight)]{.badge .bg-primary .float-end}
+**Position: The Time for Sampling Is Now! Charting a New Course for Bayesian Deep Learning**
+
+**Emanuel Sommer**, David Rügamer
+
+{{< fa file-pdf >}} Paper released soon! | [{{< fa chalkboard-user >}} Conference](https://icml.cc/)
+
+[Bayesian Deep Learning]{.badge .bg-light .text-dark} [UQ]{.badge .bg-light .text-dark} [Posterior Distillation]{.badge .bg-light .text-dark}
+:::
+:::
+
+::: {.card .mb-4 .shadow-sm}
+::: {.card-body}
+[AISTATS 2026 (Spotlight)]{.badge .bg-primary .float-end}
 **On the Interplay of Priors and Overparametrization in Bayesian Neural Network Posteriors**
 
 Julius Kobialka\*, **Emanuel Sommer**\*, Chris Kolb, Juntae Kwon, Daniel Dold, David Rügamer
