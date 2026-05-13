@@ -39,7 +39,7 @@ Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharin
 
 * **Research:** (Sampling based Inference for) Bayesian Deep Learning.
 * **Supervisor:** David Rügamer.
-* **Reviewing:** NeurIPS (Top Reviewer 2025), ICLR, AISTATS, UAI. Area Chair for ProbML 2026.
+* **Reviewing:** NeurIPS (Top Reviewer 2025), ICML (Gold Reviewer Award 2026), ICLR, AISTATS, UAI. Area Chair for ProbML 2026.
 * **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Deep Learning.
 :::
 :::
