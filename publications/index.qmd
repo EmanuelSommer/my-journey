@@ -29,7 +29,7 @@ For a complete list of publications, please refer to my [Google Scholar](https:/
 
 **Emanuel Sommer**, David Rügamer
 
-{{< fa file-pdf >}} Paper released soon! | [{{< fa chalkboard-user >}} Conference](https://icml.cc/)
+[{{< fa file-pdf >}} Paper](https://arxiv.org/abs/2605.21765) | [{{< fa chalkboard-user >}} Conference](https://icml.cc/)
 
 [Bayesian Deep Learning]{.badge .bg-light .text-dark} [UQ]{.badge .bg-light .text-dark} [Posterior Distillation]{.badge .bg-light .text-dark}
 :::
