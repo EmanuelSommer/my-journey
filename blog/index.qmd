@@ -1,5 +1,5 @@
 ---
-title: "Thoughs & Endeavours"
+title: "Thoughts & Endeavours"
 listing:
   id: mini-blog
   contents: posts
