@@ -12,7 +12,7 @@ about:
       text: Google Scholar
       href: https://scholar.google.com/citations?user=qa2P1tYAAAAJ&hl=en
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/EmanuelSommer
 ---
 
@@ -20,13 +20,13 @@ about:
 
 Hi, I'm Emanuel! 👋
 
-I'm a passionate ML Researcher, Mathematician & Data Scientist with a proven track record of crafting and deploying Statistical / Machine Learning Models. These range from high-dimensional Financial Risk Models to large-scale Learning-to-Rank Models, serving thousands hourly. 
+I'm a Machine Learning Researcher, Mathematician & Data Scientist with a proven track record of solving challenging problems by developing rigorous methodology and practical systems. My work spans efficient and faithful uncertainty quantification for deep learning, high-dimensional financial risk models, and large-scale learning-to-rank systems, serving thousands hourly. 
 
-With a B.Sc. & M.Sc. in Mathematics from TUM, I've built a strong foundation in Statistics & ML. Following industry experience as an ML Practitioner, I'm now pursuing a PhD in Statistics, focusing on sampling-based inference for Bayesian Neural Networks to advance uncertainty quantification in modern Deep Learning. My research has been published at top venues like ICML and ICLR.
+With a B.Sc. & M.Sc. in Mathematics from TUM, industry experience as an ML practitioner, and a PhD in Statistics \& ML nearing completion at LMU Munich, I combine strong foundations in Statistics & ML with engineering and product thinking. My research focuses on scalable sampling-based inference and uncertainty quantification for modern (Bayesian) Deep Learning, with publications at leading venues such as ICML, ICLR, and AISTATS.
 
 :::
 
-Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharing these experiences with my amazing girlfriend. I value mathematical elegance, but I’m most energized when that theory leaves the whiteboard and starts driving real innovation. 🚀🌍 
+Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, strength training, and dancing often sharing these experiences with my amazing girlfriend. I value mathematical elegance, but I’m most energized when that theory leaves the whiteboard and creates real innovation. 🚀🌍 
 
 ---
 
@@ -37,10 +37,10 @@ Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharin
 ### PhD Candidate in Statistics & Machine Learning
 **[Munich Uncertainty Quantification AI Lab](https://www.muniq.ai/) | LMU Munich | MCML** [Oct 2023 – Present]{.text-muted .float-end}
 
-* **Research:** (Sampling based Inference for) Bayesian Deep Learning.
-* **Supervisor:** David Rügamer.
-* **Reviewing:** NeurIPS (Top Reviewer 2025), ICML (Gold Reviewer Award 2026), ICLR, AISTATS, UAI. Area Chair for ProbML 2026.
-* **Teaching:** Graduate \& Undergraduate Courses in Statistical Modeling and Deep Learning.
+* Develop efficient (sampling-based) methods for Bayesian deep learning and uncertainty quantification at scale.
+* Published 10+ papers, including work at leading venues such as ICML, ICLR, and AISTATS; initiated and led international and interdisciplinary research collaborations.
+* Academic service: Area Chair for ProbML 2026. Reviewer for NeurIPS (Top Reviewer 2025), ICML (Gold Reviewer Award 2026), ICLR, AISTATS, UAI.
+* Teach courses and seminars in deep learning and statistical modeling; (co)supervise B.Sc. and M.Sc. theses.
 :::
 :::
 
@@ -49,12 +49,10 @@ Beyond Research & Tech, I'm an enthusiast for hiking, food, travel, often sharin
 ### Junior Data Scientist
 **Technology Hub | CHECK24** [June 2022 - Aug 2023]{.text-muted .float-end}
 
-As a Data Scientist in the central Data Science team TechHub, I was at the forefront of driving customer success by delivering innovative ML solutions for various products within the company.
-
-- Responsibility for the Design, Implementation and Maintenance of E2E Learning-to-rank services serving thousands hourly to effortlessly match customers with the products fitting their needs, constantly innovating and as a result improved conversion significantly.
-- Collaboration with stakeholders in cross-functional teams across multiple products required me to be highly flexible and a quick learner, with strong business acumen and strong communication skills.
-- Equipment of stakeholders with rich dashboards in order to not only monitor but also to foster the explainability and transparency of the ML services.
-- Improved the decision making process with cutting-edge statistical methodology in the realm of sequential A/B testing.
+- Designed, deployed and maintained large-scale end-to-end Learning-to-Rank systems serving thousands of users hourly leading to double-digit conversion rate improvements.
+- Developed statistical methodology for sequential A/B testing to improve data-driven product decisions.
+- Built stakeholder-facing dashboards increasing transparency and explainability of ML services.
+- Cross-functional collaboration with various product teams to identify and solve business problems with ML solutions.
 
 :::
 :::
@@ -63,7 +61,7 @@ As a Data Scientist in the central Data Science team TechHub, I was at the foref
 ::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Data Scientist Intern
-**Financial Services Core/ Risk Banking | KPMG** [Sep 2019 - Dez 2019]{.text-muted .float-end}
+**Financial Services Core/ Risk Banking | KPMG** [Sep 2019 - Dec 2019]{.text-muted .float-end}
 
 Data Scientist role on a long-term project at an investment bank.
 
@@ -83,7 +81,7 @@ Tutor for the lecture *Statistics for Business Administration*.
 ::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### Intern (Schnupperlehre)
-**EU/LA Property | Munich RE** [Juli 2013 - Aug 2013]{.text-muted .float-end}
+**EU/LA Property | Munich RE** [Jul 2013 - Aug 2013]{.text-muted .float-end}
 
 Got a first taste of the reinsurance business and of the company.
 :::
@@ -93,10 +91,20 @@ Got a first taste of the reinsurance business and of the company.
 
 # {{< fa graduation-cap >}} Education 
 
+::: {.card .mb-3 .shadow-sm}
+::: {.card-body}
+### PhD in Statistics
+**Ludwig-Maximilians-Universität München (LMU) \| MCML** [Oct 2023 – Oct 2026 (expected)]{.text-muted .float-end}
+
+- Dissertation: *Advances in Markov Chain Monte Carlo for Bayesian Deep Learning for Uncertainty Quantification at Scale*
+- Supervisor: Prof. Dr. David Rügamer
+:::
+:::
+
 ::: {.card .mb-3  .shadow-sm}
 ::: {.card-body}
 ### M.Sc. in Mathematics in Data Science
-**Technische Universität München (TUM)** [April 2020 - Mai 2022]{.text-muted .float-end}
+**Technische Universität München (TUM)** [April 2020 - May 2022]{.text-muted .float-end}
 
 - Thesis on [*Estimation and Backtesting of the Expected Shortfall and Value at Risk using Vine Copulas*](https://mediatum.ub.tum.de/1658240)
 - Focus on Machine Learning & Statistics
@@ -147,7 +155,7 @@ Got a first taste of the reinsurance business and of the company.
 
 ### Thesis Supervision
 
-To date, I’ve (co)supervised 8+ Bachelor and (mostly) Master students on topics in the realm of (Bayesian) Deep Learning, probabilistic modeling and UQ. I find the process of guiding and supporting a student in their research highly rewarding, and I often learn as much from my mentees as they do from me. Our lab is always looking for students who are driven by curiosity, have strong foundations and enjoy digging into the details.
+To date, I’ve (co)supervised two Bachelor and 10+ Master students on topics in the realm of (Bayesian) Deep Learning, probabilistic modeling and UQ. I find the process of guiding and supporting a student in their research highly rewarding, and I often learn as much from my mentees as they do from me. Our lab is always looking for students who are driven by curiosity, have strong foundations and enjoy digging into the details.
 :::
 
 
