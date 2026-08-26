@@ -89,6 +89,10 @@ Julius Kobialka\*, **Emanuel Sommer**\*, Chris Kolb, Juntae Kwon, Daniel Dold, D
 
 <span style="font-size: smaller; color: grey;">* Equal contribution</span>
 
+<div style="margin-top: 0.8rem; font-size: 0.95em;">
+{{< fa book >}} **Book contribution:** [*Handbook of Bayesian Deep Learning*](https://doi.org/10.5281/zenodo.22086450) (2026), co-authored three chapters.
+</div>
+
 ------------------------------------------------------------------------
 
 # {{< fa code >}} Software
